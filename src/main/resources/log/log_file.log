@@ -1,0 +1,93 @@
+2019-06-15 11:17:05 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:05 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:05 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:05 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:05 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:05 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:05 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:05 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:05 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:29 INFO  MorphologyExecutorServiceImplTest:95 - Directory: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test
+2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:29 INFO  MorphologyExecutorServiceImplTest:95 - Directory: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test
+2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:29 INFO  MorphologyExecutorServiceImplTest:95 - Directory: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test
+2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:29 INFO  MorphologyExecutorServiceImplTest:95 - Directory: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test
+2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:29 INFO  MorphologyExecutorServiceImplTest:95 - Directory: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test
+2019-06-15 11:17:30 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:30 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:30 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:30 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:30 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:30 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:30 INFO  MorphologyExecutorServiceImplTest:95 - Directory: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test
+2019-06-15 11:17:30 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:30 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:30 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:30 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:30 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:30 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:30 INFO  ImageApiImpl:53 - Mat [ 900*1600*CV_8UC3, isCont=true, isSubmat=false, nativeObj=0x9ed660, dataAddr=0x23cd2080 ]
+2019-06-15 11:17:30 INFO  ImageApiImpl:58 - Inside
+2019-06-15 11:17:30 INFO  SegmentationServiceImplTest:68 - Directory: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation
+2019-06-15 11:17:30 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:30 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:30 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:30 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:30 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:30 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:30 INFO  ImageApiImpl:32 - Start fillFlood, input path: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\number.jpg, initValue: 50
+2019-06-15 11:17:30 INFO  ImageApiImpl:43 - Saved file is : C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation/number.jpg
+2019-06-15 11:17:30 INFO  SegmentationServiceImplTest:68 - Directory: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation
+2019-06-15 11:17:30 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:30 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:30 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:30 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:30 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:30 INFO  ImageApiImpl:32 - The OS is Windows
+2019-06-15 11:17:30 INFO  SegmentationServiceImplTest:60 - 9
+2019-06-15 11:17:30 INFO  SegmentationServiceImplTest:68 - Directory: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation
+2019-06-15 11:17:48 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:48 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:48 ERROR ImageApiImpl:39 - Native Library C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\opencv\opencv_java342.dll already loaded in another classloader
+2019-06-15 11:17:57 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:57 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:57 ERROR ImageApiImpl:39 - Native Library C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\opencv\opencv_java342.dll already loaded in another classloader
+2019-06-15 11:17:57 INFO  ImageApiImpl:27 - Start ImageApiImpl class
+2019-06-15 11:17:57 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 11:17:57 ERROR ImageApiImpl:39 - Native Library C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\opencv\opencv_java342.dll already loaded in another classloader
+2019-06-15 11:18:34 INFO  SegmentationController:94 - Start /segmentation controller input value: SegmentationForm{filename='test.png', filebody=64097, min=50, max=600}
+2019-06-15 11:18:34 INFO  FileWriterServiceImpl:27 - Start write file method
+2019-06-15 11:18:35 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
+2019-06-15 11:18:35 INFO  SegmentationController:103 - Size min: 50x50, max 600x600, segments: 1, delete file: true

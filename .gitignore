@@ -1,4 +1,5 @@
 /src/main/resources/opencv
+/src/main/resources/log/
 /target/
 ### STS ###
 .apt_generated
