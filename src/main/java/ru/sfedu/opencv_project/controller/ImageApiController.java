@@ -1,5 +1,6 @@
 package ru.sfedu.opencv_project.controller;
 
+import org.apache.http.HttpStatus;
 import org.apache.log4j.Logger;
 import org.jboss.resteasy.annotations.providers.multipart.MultipartForm;
 import org.opencv.core.Mat;
@@ -22,7 +23,7 @@ import java.io.File;
  * @date 25.05.2019 11:48
  */
 
-@Path("/imageApiImpl")
+@Path("/imageApi")
 public class ImageApiController {
 
     private Logger logger = Logger.getLogger(ImageApiController.class);
@@ -37,23 +38,26 @@ public class ImageApiController {
     @Consumes("multipart/form-data")
     public Response upload(@MultipartForm FileUploadForm form) {
         logger.info("---------------------------------\nStart upload method");
-        byte[] data = form.getData();
+        if(form != null){
+            byte[] data = form.getData();
 
-        String filepath = fileWriter.writeFile(data, FILENAME);
-        logger.info("File path is : " + filepath);
-        logger.info("Chanel is: " + form.getChanel());
+            String filepath = fileWriter.writeFile(data, FILENAME);
+            logger.info("File path is : " + filepath);
+            logger.info("Chanel is: " + form.getChanel());
 
-        Mat mat = imageApiImpl.readBytes(filepath, form.getChanel());
-        Imgcodecs.imwrite(filepath, mat);
+            Mat mat = imageApiImpl.readBytes(filepath, form.getChanel());
+            if(mat != null){
+                Imgcodecs.imwrite(filepath, mat);
 
-        File file = new File(filepath);
-        logger.info("Filename: " + file.getName());
-        byte[] bytes = fileWriter.getBytes(file.toPath());
+                File file = new File(filepath);
+                logger.info("Filename: " + file.getName());
+                byte[] bytes = fileWriter.getBytes(file.toPath());
 
-        boolean deleteFile = fileWriter.deleteFile(filepath);
-        logger.info("Result delete : " + deleteFile);
-
-        return Response.ok(bytes).header("Content-Disposition", "attachment;filename=" + "test.png").build();
+                boolean deleteFile = fileWriter.deleteFile(filepath);
+                logger.info("Result delete : " + deleteFile);
+                return Response.ok(bytes).header("Content-Disposition", "attachment;filename=" + "test.png").build();
+            }
+        }
+        return Response.status(HttpStatus.SC_BAD_REQUEST).build();
     }
-
 }

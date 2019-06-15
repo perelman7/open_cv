@@ -31,15 +31,31 @@ public class MorphologyExecutorServiceImpl implements MorphologyExecutorService 
     private Mat src;
     private Mat dst;
 
+    /**
+     * Default constructor which initialize source Mat
+     */
     public MorphologyExecutorServiceImpl() {
         src = Imgcodecs.imread(destDirPath + FILENAME, Imgcodecs.IMREAD_COLOR);
     }
 
+    /**
+     * Constructor which getting file name and path for initialization
+     *
+     * @param filepath path to file
+     * @param filename file`s name
+     */
     public MorphologyExecutorServiceImpl(String filepath, String filename) {
         src = Imgcodecs.imread(filepath, Imgcodecs.IMREAD_COLOR);
         FILENAME = filename;
     }
 
+    /**
+     * Eroding image for change some contours
+     *
+     * @param element mat
+     * @param prefix part of file path for saving changed file
+     * @return path to changed file
+     */
     @Override
     public String morfologyErode(Mat element, String prefix) {
         if (element != null && prefix != null && !prefix.isEmpty()) {
@@ -56,6 +72,13 @@ public class MorphologyExecutorServiceImpl implements MorphologyExecutorService 
         return null;
     }
 
+    /**
+     * Dilation of image for changing contours
+     *
+     * @param element mat
+     * @param prefix part of file path for saving changed file
+     * @return path to changed file
+     */
     @Override
     public String morfologyDilate(Mat element, String prefix) {
         if (element != null && prefix != null && !prefix.isEmpty()) {
@@ -72,6 +95,14 @@ public class MorphologyExecutorServiceImpl implements MorphologyExecutorService 
         return null;
     }
 
+    /**
+     * Creation mat with specific size and tupe
+     *
+     * @param size size
+     * @param mattype type of mat
+     * @return mat
+     * @see Mat
+     */
     @Override
     public Mat getMatBySize(int size, String mattype) {
         logger.info("Start mat by size: " + size + " mattype: " + mattype);

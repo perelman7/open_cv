@@ -66,6 +66,7 @@ public class MorphologyExecutorController {
         if (form != null) {
 
             String filepath = fileWriter.writeFile(form.getFilebody(), form.getFilename());
+            logger.info("Save file : " + filepath);
             service = new MorphologyExecutorServiceImpl(filepath, form.getFilename());
             Mat matBySize = service.getMatBySize(form.getSize(), form.getMattype());
 
@@ -76,8 +77,9 @@ public class MorphologyExecutorController {
                 File file = new File(savedFilePath);
 
                 byte[] bytes = fileWriter.getBytes(file.toPath());
-                fileWriter.deleteFile(filepath);
-                fileWriter.deleteFile(savedFilePath);
+                boolean deleteFile = fileWriter.deleteFile(filepath);
+                boolean deleteFile1 = fileWriter.deleteFile(savedFilePath);
+                logger.info("Result bytes: " + bytes + ", delete files: " + (deleteFile && deleteFile1));
                 return Response.ok(bytes).header("Content-Disposition", "attachment;filename=response.png").build();
             }
         }

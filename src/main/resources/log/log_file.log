@@ -1,93 +1,180 @@
-2019-06-15 11:17:05 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:05 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:05 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:05 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:05 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:05 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:05 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:05 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:05 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:29 INFO  MorphologyExecutorServiceImplTest:95 - Directory: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test
-2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:29 INFO  MorphologyExecutorServiceImplTest:95 - Directory: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test
-2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:29 INFO  MorphologyExecutorServiceImplTest:95 - Directory: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test
-2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:29 INFO  MorphologyExecutorServiceImplTest:95 - Directory: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test
-2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:29 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:29 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:29 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:29 INFO  MorphologyExecutorServiceImplTest:95 - Directory: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test
-2019-06-15 11:17:30 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:30 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:30 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:30 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:30 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:30 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:30 INFO  MorphologyExecutorServiceImplTest:95 - Directory: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test
-2019-06-15 11:17:30 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:30 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:30 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:30 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:30 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:30 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:30 INFO  ImageApiImpl:53 - Mat [ 900*1600*CV_8UC3, isCont=true, isSubmat=false, nativeObj=0x9ed660, dataAddr=0x23cd2080 ]
-2019-06-15 11:17:30 INFO  ImageApiImpl:58 - Inside
-2019-06-15 11:17:30 INFO  SegmentationServiceImplTest:68 - Directory: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation
-2019-06-15 11:17:30 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:30 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:30 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:30 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:30 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:30 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:30 INFO  ImageApiImpl:32 - Start fillFlood, input path: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\number.jpg, initValue: 50
-2019-06-15 11:17:30 INFO  ImageApiImpl:43 - Saved file is : C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation/number.jpg
-2019-06-15 11:17:30 INFO  SegmentationServiceImplTest:68 - Directory: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation
-2019-06-15 11:17:30 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:30 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:30 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:30 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:30 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:30 INFO  ImageApiImpl:32 - The OS is Windows
-2019-06-15 11:17:30 INFO  SegmentationServiceImplTest:60 - 9
-2019-06-15 11:17:30 INFO  SegmentationServiceImplTest:68 - Directory: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation
-2019-06-15 11:17:48 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:48 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:48 ERROR ImageApiImpl:39 - Native Library C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\opencv\opencv_java342.dll already loaded in another classloader
-2019-06-15 11:17:57 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:57 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:57 ERROR ImageApiImpl:39 - Native Library C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\opencv\opencv_java342.dll already loaded in another classloader
-2019-06-15 11:17:57 INFO  ImageApiImpl:27 - Start ImageApiImpl class
-2019-06-15 11:17:57 INFO  MatchOS:19 - System property return windows 10
-2019-06-15 11:17:57 ERROR ImageApiImpl:39 - Native Library C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\opencv\opencv_java342.dll already loaded in another classloader
-2019-06-15 11:18:34 INFO  SegmentationController:94 - Start /segmentation controller input value: SegmentationForm{filename='test.png', filebody=64097, min=50, max=600}
-2019-06-15 11:18:34 INFO  FileWriterServiceImpl:27 - Start write file method
-2019-06-15 11:18:35 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
-2019-06-15 11:18:35 INFO  SegmentationController:103 - Size min: 50x50, max 600x600, segments: 1, delete file: true
+2019-06-15 12:01:08 INFO  MorphologyExecutorController:35 - Input size: MorfologyDilateForm{size=10, filename='test.png', mattype='MORPH_RECT', filebody=79133}
+2019-06-15 12:01:08 INFO  FileWriterServiceImpl:27 - Start write file method
+2019-06-15 12:01:08 INFO  ImageApiImpl:30 - Start ImageApiImpl class
+2019-06-15 12:01:08 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 12:01:08 ERROR ImageApiImpl:42 - Native Library C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\opencv\opencv_java342.dll already loaded in another classloader
+2019-06-15 12:01:08 INFO  MorphologyExecutorServiceImpl:108 - Start mat by size: 10 mattype: MORPH_RECT
+2019-06-15 12:01:08 INFO  MorphologyExecutorServiceImpl:111 - mat type : MORPH_RECT
+2019-06-15 12:01:08 INFO  MorphologyExecutorController:41 - Mat: Mat [ 10*10*CV_8UC1, isCont=true, isSubmat=false, nativeObj=0x21954d50, dataAddr=0x21a39500 ]
+2019-06-15 12:01:08 INFO  MorphologyExecutorController:42 - filepath:C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
+2019-06-15 12:01:08 INFO  MorphologyExecutorController:46 - service: ru.sfedu.opencv_project.service.morfology.MorphologyExecutorServiceImpl@6c842cca
+2019-06-15 12:01:08 INFO  MorphologyExecutorController:48 - savedFilePath: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\/test/mrf_MORPH_RECTtest.png
+2019-06-15 12:01:08 INFO  MorphologyExecutorController:50 - Filename: mrf_MORPH_RECTtest.png
+2019-06-15 12:01:08 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
+2019-06-15 12:01:08 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\/test/mrf_MORPH_RECTtest.png
+2019-06-15 12:01:15 INFO  MorphologyExecutorController:35 - Input size: MorfologyDilateForm{size=20, filename='test.png', mattype='MORPH_RECT', filebody=79133}
+2019-06-15 12:01:15 INFO  FileWriterServiceImpl:27 - Start write file method
+2019-06-15 12:01:15 INFO  ImageApiImpl:30 - Start ImageApiImpl class
+2019-06-15 12:01:15 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 12:01:15 ERROR ImageApiImpl:42 - Native Library C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\opencv\opencv_java342.dll already loaded in another classloader
+2019-06-15 12:01:15 INFO  MorphologyExecutorServiceImpl:108 - Start mat by size: 20 mattype: MORPH_RECT
+2019-06-15 12:01:15 INFO  MorphologyExecutorController:41 - Mat: null
+2019-06-15 12:01:15 INFO  MorphologyExecutorController:42 - filepath:C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
+2019-06-15 12:01:23 INFO  MorphologyExecutorController:35 - Input size: MorfologyDilateForm{size=5, filename='test.png', mattype='MORPH_RECT', filebody=79133}
+2019-06-15 12:01:23 INFO  FileWriterServiceImpl:27 - Start write file method
+2019-06-15 12:01:23 INFO  ImageApiImpl:30 - Start ImageApiImpl class
+2019-06-15 12:01:23 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 12:01:23 ERROR ImageApiImpl:42 - Native Library C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\opencv\opencv_java342.dll already loaded in another classloader
+2019-06-15 12:01:23 INFO  MorphologyExecutorServiceImpl:108 - Start mat by size: 5 mattype: MORPH_RECT
+2019-06-15 12:01:23 INFO  MorphologyExecutorServiceImpl:111 - mat type : MORPH_RECT
+2019-06-15 12:01:23 INFO  MorphologyExecutorController:41 - Mat: Mat [ 5*5*CV_8UC1, isCont=true, isSubmat=false, nativeObj=0x21955530, dataAddr=0x21954a00 ]
+2019-06-15 12:01:23 INFO  MorphologyExecutorController:42 - filepath:C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
+2019-06-15 12:01:23 INFO  MorphologyExecutorController:46 - service: ru.sfedu.opencv_project.service.morfology.MorphologyExecutorServiceImpl@689d84d1
+2019-06-15 12:01:23 INFO  MorphologyExecutorController:48 - savedFilePath: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\/test/mrf_MORPH_RECTtest.png
+2019-06-15 12:01:23 INFO  MorphologyExecutorController:50 - Filename: mrf_MORPH_RECTtest.png
+2019-06-15 12:01:23 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
+2019-06-15 12:01:23 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\/test/mrf_MORPH_RECTtest.png
+2019-06-15 12:01:29 INFO  MorphologyExecutorController:35 - Input size: MorfologyDilateForm{size=15, filename='test.png', mattype='MORPH_RECT', filebody=79133}
+2019-06-15 12:01:29 INFO  FileWriterServiceImpl:27 - Start write file method
+2019-06-15 12:01:29 INFO  ImageApiImpl:30 - Start ImageApiImpl class
+2019-06-15 12:01:29 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 12:01:29 ERROR ImageApiImpl:42 - Native Library C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\opencv\opencv_java342.dll already loaded in another classloader
+2019-06-15 12:01:29 INFO  MorphologyExecutorServiceImpl:108 - Start mat by size: 15 mattype: MORPH_RECT
+2019-06-15 12:01:29 INFO  MorphologyExecutorController:41 - Mat: null
+2019-06-15 12:01:29 INFO  MorphologyExecutorController:42 - filepath:C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
+2019-06-15 12:01:33 INFO  MorphologyExecutorController:35 - Input size: MorfologyDilateForm{size=10, filename='test.png', mattype='MORPH_RECT', filebody=79133}
+2019-06-15 12:01:33 INFO  FileWriterServiceImpl:27 - Start write file method
+2019-06-15 12:01:33 INFO  ImageApiImpl:30 - Start ImageApiImpl class
+2019-06-15 12:01:33 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 12:01:33 ERROR ImageApiImpl:42 - Native Library C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\opencv\opencv_java342.dll already loaded in another classloader
+2019-06-15 12:01:33 INFO  MorphologyExecutorServiceImpl:108 - Start mat by size: 10 mattype: MORPH_RECT
+2019-06-15 12:01:33 INFO  MorphologyExecutorServiceImpl:111 - mat type : MORPH_RECT
+2019-06-15 12:01:33 INFO  MorphologyExecutorController:41 - Mat: Mat [ 10*10*CV_8UC1, isCont=true, isSubmat=false, nativeObj=0x21a66f10, dataAddr=0x21a38fc0 ]
+2019-06-15 12:01:33 INFO  MorphologyExecutorController:42 - filepath:C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
+2019-06-15 12:01:33 INFO  MorphologyExecutorController:46 - service: ru.sfedu.opencv_project.service.morfology.MorphologyExecutorServiceImpl@5759ed32
+2019-06-15 12:01:33 INFO  MorphologyExecutorController:48 - savedFilePath: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\/test/mrf_MORPH_RECTtest.png
+2019-06-15 12:01:33 INFO  MorphologyExecutorController:50 - Filename: mrf_MORPH_RECTtest.png
+2019-06-15 12:01:33 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
+2019-06-15 12:01:33 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\/test/mrf_MORPH_RECTtest.png
+2019-06-15 12:01:37 INFO  MorphologyExecutorController:35 - Input size: MorfologyDilateForm{size=1, filename='test.png', mattype='MORPH_RECT', filebody=79133}
+2019-06-15 12:01:37 INFO  FileWriterServiceImpl:27 - Start write file method
+2019-06-15 12:01:37 INFO  ImageApiImpl:30 - Start ImageApiImpl class
+2019-06-15 12:01:37 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 12:01:37 ERROR ImageApiImpl:42 - Native Library C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\opencv\opencv_java342.dll already loaded in another classloader
+2019-06-15 12:01:37 INFO  MorphologyExecutorServiceImpl:108 - Start mat by size: 1 mattype: MORPH_RECT
+2019-06-15 12:01:37 INFO  MorphologyExecutorServiceImpl:111 - mat type : MORPH_RECT
+2019-06-15 12:01:37 INFO  MorphologyExecutorController:41 - Mat: Mat [ 1*1*CV_8UC1, isCont=true, isSubmat=false, nativeObj=0x21a66e30, dataAddr=0x2a9f1200 ]
+2019-06-15 12:01:37 INFO  MorphologyExecutorController:42 - filepath:C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
+2019-06-15 12:01:37 INFO  MorphologyExecutorController:46 - service: ru.sfedu.opencv_project.service.morfology.MorphologyExecutorServiceImpl@fafd0b4
+2019-06-15 12:01:37 INFO  MorphologyExecutorController:48 - savedFilePath: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\/test/mrf_MORPH_RECTtest.png
+2019-06-15 12:01:37 INFO  MorphologyExecutorController:50 - Filename: mrf_MORPH_RECTtest.png
+2019-06-15 12:01:37 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
+2019-06-15 12:01:37 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\/test/mrf_MORPH_RECTtest.png
+2019-06-15 12:01:48 INFO  MorphologyExecutorController:65 - Input size: MorfologyDilateForm{size=10, filename='file.jpg', mattype='MORPH_RECT', filebody=57115}
+2019-06-15 12:01:48 INFO  FileWriterServiceImpl:27 - Start write file method
+2019-06-15 12:01:48 INFO  MorphologyExecutorController:69 - Save file : C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\file.jpg
+2019-06-15 12:01:48 INFO  ImageApiImpl:30 - Start ImageApiImpl class
+2019-06-15 12:01:48 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 12:01:48 ERROR ImageApiImpl:42 - Native Library C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\opencv\opencv_java342.dll already loaded in another classloader
+2019-06-15 12:01:48 INFO  MorphologyExecutorServiceImpl:108 - Start mat by size: 10 mattype: MORPH_RECT
+2019-06-15 12:01:48 INFO  MorphologyExecutorServiceImpl:111 - mat type : MORPH_RECT
+2019-06-15 12:01:48 INFO  MorphologyExecutorController:74 - service: ru.sfedu.opencv_project.service.morfology.MorphologyExecutorServiceImpl@2a2aa9a6
+2019-06-15 12:01:48 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\file.jpg
+2019-06-15 12:01:48 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\/test/mrf_MORPH_RECTfile.jpg
+2019-06-15 12:01:48 INFO  MorphologyExecutorController:82 - Result bytes: [B@37b04c48, delete files: true
+2019-06-15 12:01:53 INFO  MorphologyExecutorController:65 - Input size: MorfologyDilateForm{size=1, filename='file.jpg', mattype='MORPH_RECT', filebody=57115}
+2019-06-15 12:01:53 INFO  FileWriterServiceImpl:27 - Start write file method
+2019-06-15 12:01:53 INFO  MorphologyExecutorController:69 - Save file : C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\file.jpg
+2019-06-15 12:01:53 INFO  ImageApiImpl:30 - Start ImageApiImpl class
+2019-06-15 12:01:53 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 12:01:53 ERROR ImageApiImpl:42 - Native Library C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\opencv\opencv_java342.dll already loaded in another classloader
+2019-06-15 12:01:53 INFO  MorphologyExecutorServiceImpl:108 - Start mat by size: 1 mattype: MORPH_RECT
+2019-06-15 12:01:53 INFO  MorphologyExecutorServiceImpl:111 - mat type : MORPH_RECT
+2019-06-15 12:01:53 INFO  MorphologyExecutorController:74 - service: ru.sfedu.opencv_project.service.morfology.MorphologyExecutorServiceImpl@5e94b5a7
+2019-06-15 12:01:53 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\file.jpg
+2019-06-15 12:01:53 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\/test/mrf_MORPH_RECTfile.jpg
+2019-06-15 12:01:53 INFO  MorphologyExecutorController:82 - Result bytes: [B@53186f63, delete files: true
+2019-06-15 12:02:10 INFO  SegmentationController:42 - Start /fillFlood controller input value: FillFloodForm{filename='test.png', initValue=100, filebody=64097}
+2019-06-15 12:02:10 INFO  FileWriterServiceImpl:27 - Start write file method
+2019-06-15 12:02:10 INFO  SegmentationController:45 - Save file: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
+2019-06-15 12:02:10 INFO  ImageApiImpl:40 - Start fillFlood, input path: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png, initValue: 100
+2019-06-15 12:02:11 INFO  ImageApiImpl:51 - Saved file is : C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation/test.png
+2019-06-15 12:02:11 INFO  SegmentationController:50 - After method: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation/test.png, response body: 263950
+2019-06-15 12:02:11 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation/test.png
+2019-06-15 12:02:11 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
+2019-06-15 12:02:11 INFO  SegmentationController:53 - Result bytes : 263950, deleted files : true
+2019-06-15 12:02:16 INFO  SegmentationController:42 - Start /fillFlood controller input value: FillFloodForm{filename='test.png', initValue=10, filebody=64097}
+2019-06-15 12:02:16 INFO  FileWriterServiceImpl:27 - Start write file method
+2019-06-15 12:02:16 INFO  SegmentationController:45 - Save file: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
+2019-06-15 12:02:16 INFO  ImageApiImpl:40 - Start fillFlood, input path: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png, initValue: 10
+2019-06-15 12:02:16 INFO  ImageApiImpl:51 - Saved file is : C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation/test.png
+2019-06-15 12:02:16 INFO  SegmentationController:50 - After method: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation/test.png, response body: 322338
+2019-06-15 12:02:16 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation/test.png
+2019-06-15 12:02:16 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
+2019-06-15 12:02:16 INFO  SegmentationController:53 - Result bytes : 322338, deleted files : true
+2019-06-15 12:02:23 INFO  SegmentationController:42 - Start /fillFlood controller input value: FillFloodForm{filename='test.png', initValue=11, filebody=64097}
+2019-06-15 12:02:23 INFO  FileWriterServiceImpl:27 - Start write file method
+2019-06-15 12:02:23 INFO  SegmentationController:45 - Save file: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
+2019-06-15 12:02:23 INFO  ImageApiImpl:40 - Start fillFlood, input path: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png, initValue: 11
+2019-06-15 12:02:23 INFO  ImageApiImpl:51 - Saved file is : C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation/test.png
+2019-06-15 12:02:23 INFO  SegmentationController:50 - After method: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation/test.png, response body: 315483
+2019-06-15 12:02:23 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation/test.png
+2019-06-15 12:02:23 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
+2019-06-15 12:02:23 INFO  SegmentationController:53 - Result bytes : 315483, deleted files : true
+2019-06-15 12:05:30 INFO  SegmentationController:42 - Start /fillFlood controller input value: FillFloodForm{filename='test.png', initValue=11, filebody=456939}
+2019-06-15 12:05:30 INFO  FileWriterServiceImpl:27 - Start write file method
+2019-06-15 12:05:30 INFO  SegmentationController:45 - Save file: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
+2019-06-15 12:05:30 INFO  ImageApiImpl:40 - Start fillFlood, input path: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png, initValue: 11
+2019-06-15 12:05:30 INFO  ImageApiImpl:51 - Saved file is : C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation/test.png
+2019-06-15 12:05:31 INFO  SegmentationController:50 - After method: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation/test.png, response body: 3992045
+2019-06-15 12:05:31 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\segmentation/test.png
+2019-06-15 12:05:31 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\test.png
+2019-06-15 12:05:31 INFO  SegmentationController:53 - Result bytes : 3992045, deleted files : true
+2019-06-15 12:05:45 INFO  MorphologyExecutorController:65 - Input size: MorfologyDilateForm{size=1, filename='file.jpg', mattype='MORPH_RECT', filebody=63294}
+2019-06-15 12:05:45 INFO  FileWriterServiceImpl:27 - Start write file method
+2019-06-15 12:05:45 INFO  MorphologyExecutorController:69 - Save file : C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\file.jpg
+2019-06-15 12:05:45 INFO  ImageApiImpl:30 - Start ImageApiImpl class
+2019-06-15 12:05:45 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 12:05:45 ERROR ImageApiImpl:42 - Native Library C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\opencv\opencv_java342.dll already loaded in another classloader
+2019-06-15 12:05:45 INFO  MorphologyExecutorServiceImpl:108 - Start mat by size: 1 mattype: MORPH_RECT
+2019-06-15 12:05:45 INFO  MorphologyExecutorServiceImpl:111 - mat type : MORPH_RECT
+2019-06-15 12:05:45 INFO  MorphologyExecutorController:74 - service: ru.sfedu.opencv_project.service.morfology.MorphologyExecutorServiceImpl@59246386
+2019-06-15 12:05:45 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\file.jpg
+2019-06-15 12:05:45 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\/test/mrf_MORPH_RECTfile.jpg
+2019-06-15 12:05:45 INFO  MorphologyExecutorController:82 - Result bytes: [B@21ba1c4e, delete files: true
+2019-06-15 12:05:51 INFO  MorphologyExecutorController:65 - Input size: MorfologyDilateForm{size=10, filename='file.jpg', mattype='MORPH_RECT', filebody=63294}
+2019-06-15 12:05:51 INFO  FileWriterServiceImpl:27 - Start write file method
+2019-06-15 12:05:51 INFO  MorphologyExecutorController:69 - Save file : C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\file.jpg
+2019-06-15 12:05:51 INFO  ImageApiImpl:30 - Start ImageApiImpl class
+2019-06-15 12:05:51 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 12:05:51 ERROR ImageApiImpl:42 - Native Library C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\opencv\opencv_java342.dll already loaded in another classloader
+2019-06-15 12:05:51 INFO  MorphologyExecutorServiceImpl:108 - Start mat by size: 10 mattype: MORPH_RECT
+2019-06-15 12:05:51 INFO  MorphologyExecutorServiceImpl:111 - mat type : MORPH_RECT
+2019-06-15 12:05:51 INFO  MorphologyExecutorController:74 - service: ru.sfedu.opencv_project.service.morfology.MorphologyExecutorServiceImpl@281374d7
+2019-06-15 12:05:51 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\file.jpg
+2019-06-15 12:05:51 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\/test/mrf_MORPH_RECTfile.jpg
+2019-06-15 12:05:51 INFO  MorphologyExecutorController:82 - Result bytes: [B@2bb0f6cf, delete files: true
+2019-06-15 12:06:01 INFO  MorphologyExecutorController:65 - Input size: MorfologyDilateForm{size=10, filename='file.jpg', mattype='MORPH_RECT', filebody=94984}
+2019-06-15 12:06:01 INFO  FileWriterServiceImpl:27 - Start write file method
+2019-06-15 12:06:01 INFO  MorphologyExecutorController:69 - Save file : C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\file.jpg
+2019-06-15 12:06:01 INFO  ImageApiImpl:30 - Start ImageApiImpl class
+2019-06-15 12:06:01 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 12:06:01 ERROR ImageApiImpl:42 - Native Library C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\opencv\opencv_java342.dll already loaded in another classloader
+2019-06-15 12:06:01 INFO  MorphologyExecutorServiceImpl:108 - Start mat by size: 10 mattype: MORPH_RECT
+2019-06-15 12:06:01 INFO  MorphologyExecutorServiceImpl:111 - mat type : MORPH_RECT
+2019-06-15 12:06:01 INFO  MorphologyExecutorController:74 - service: ru.sfedu.opencv_project.service.morfology.MorphologyExecutorServiceImpl@3b8f2232
+2019-06-15 12:06:01 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\file.jpg
+2019-06-15 12:06:01 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\/test/mrf_MORPH_RECTfile.jpg
+2019-06-15 12:06:01 INFO  MorphologyExecutorController:82 - Result bytes: [B@89f9b17, delete files: true
+2019-06-15 12:06:06 INFO  MorphologyExecutorController:65 - Input size: MorfologyDilateForm{size=1, filename='file.jpg', mattype='MORPH_RECT', filebody=94984}
+2019-06-15 12:06:06 INFO  FileWriterServiceImpl:27 - Start write file method
+2019-06-15 12:06:06 INFO  MorphologyExecutorController:69 - Save file : C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\file.jpg
+2019-06-15 12:06:06 INFO  ImageApiImpl:30 - Start ImageApiImpl class
+2019-06-15 12:06:06 INFO  MatchOS:19 - System property return windows 10
+2019-06-15 12:06:06 ERROR ImageApiImpl:42 - Native Library C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\opencv\opencv_java342.dll already loaded in another classloader
+2019-06-15 12:06:06 INFO  MorphologyExecutorServiceImpl:108 - Start mat by size: 1 mattype: MORPH_RECT
+2019-06-15 12:06:06 INFO  MorphologyExecutorServiceImpl:111 - mat type : MORPH_RECT
+2019-06-15 12:06:06 INFO  MorphologyExecutorController:74 - service: ru.sfedu.opencv_project.service.morfology.MorphologyExecutorServiceImpl@2056cd9
+2019-06-15 12:06:06 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\file.jpg
+2019-06-15 12:06:06 INFO  FileWriterServiceImpl:42 - Start method deleteFile(), input param: C:\Users\HP\IdeaProjects\OpenCV_Project\src\main\resources\img\/test/mrf_MORPH_RECTfile.jpg
+2019-06-15 12:06:06 INFO  MorphologyExecutorController:82 - Result bytes: [B@68a5c728, delete files: true

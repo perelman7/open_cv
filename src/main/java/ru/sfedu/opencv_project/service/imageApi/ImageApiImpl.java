@@ -23,6 +23,9 @@ public class ImageApiImpl implements ImageApi{
     private ConfigurationUtil configurationUtil = new ConfigurationUtil(Constant.PROPERTY_PATH);
     private Logger logger = Logger.getLogger(ImageApiImpl.class);
 
+    /**
+     * Constructor without arguments loading system library open cv
+     */
     public ImageApiImpl() {
         logger.info("Start ImageApiImpl class");
         try {
@@ -42,15 +45,22 @@ public class ImageApiImpl implements ImageApi{
 
     }
 
+    /**
+     * Getting array bytes from mat and chang one of three chanel byte value to "0"
+     *
+     * @param filepath path to file
+     * @param chanel number of chanel (can`t be more the three)
+     * @return new mat with changed chanel
+     */
     @Override
     public Mat readBytes(String filepath, int chanel) {
-        if(chanel < 3){
+        if(chanel > 2 && chanel < 10){
             Mat srcImage = Imgcodecs.imread(filepath);
             int totalBytes = (int) (srcImage.total() * srcImage.elemSize());
             byte buffer[] = new byte[totalBytes];
             srcImage.get(0, 0, buffer);
             for (int i = 0; i < totalBytes; i++) {
-                if (i % srcImage.channels() == 0) {
+                if (i % chanel == 0) {
                     buffer[i] = 0;
                 }
             }
@@ -60,6 +70,14 @@ public class ImageApiImpl implements ImageApi{
         return null;
     }
 
+    /**
+     * Creating Mat from file by file path
+     *
+     * @param filepath path to file
+     * @return mat
+     * @see Mat
+     */
+
     @Override
     public Mat createMat(String filepath){
         if(filepath != null){
@@ -68,6 +86,12 @@ public class ImageApiImpl implements ImageApi{
         return null;
     }
 
+    /**
+     * Create JFrame and show mat like image
+     *
+     * @param mat mat
+     * @see JFrame
+     */
     @Override
     public void showImg(Mat mat) {
         int type = BufferedImage.TYPE_BYTE_GRAY;

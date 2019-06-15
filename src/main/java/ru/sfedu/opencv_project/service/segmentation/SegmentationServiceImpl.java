@@ -26,6 +26,14 @@ public class SegmentationServiceImpl implements SegmentationService {
     private ConfigurationUtil configurationUtil = new ConfigurationUtil(Constant.PROPERTY_PATH);
     private String directory = configurationUtil.readConfig("dir_segment");
 
+    /**
+     * Filling flood on image
+     *
+     * @param path path to file
+     * @param initVal value of Scalar
+     * @param filename file`s name
+     * @return path to new file
+     */
     @Override
     public String fillFlood(String path, int initVal, String filename) {
         if (path != null && !path.isEmpty() && filename != null && !filename.isEmpty()) {
@@ -47,6 +55,12 @@ public class SegmentationServiceImpl implements SegmentationService {
         return null;
     }
 
+    /**
+     * Subtract image and getting some contours
+     *
+     * @param path  path to file
+     * @return path to file
+     */
     @Override
     public String subtract(String path) {
         Mat srcImage = Imgcodecs.imread(path);
@@ -65,6 +79,14 @@ public class SegmentationServiceImpl implements SegmentationService {
         return null;
     }
 
+    /**
+     * Filtering image and searching rectangles
+     *
+     * @param srcImage input mat
+     * @param min min size of rectangle
+     * @param max max size of rectangle
+     * @return count of rectangles
+     */
     @Override
     public int segmentation(Mat srcImage, Size min, Size max) {
 

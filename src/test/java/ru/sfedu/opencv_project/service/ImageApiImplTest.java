@@ -24,7 +24,7 @@ public class ImageApiImplTest {
 
     @Test
     public void doTest() throws IOException {
-        Mat mat = api.readBytes(FILE_NAME, 0);
+        Mat mat = api.readBytes(FILE_NAME, 3);
         assertNotNull(mat);
     }
 
